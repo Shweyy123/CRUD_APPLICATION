@@ -37,9 +37,11 @@ To run this project locally, follow these steps:
 
        npm start
 
+
 Usage :
 
 Once the application is running, you can access it at http://localhost:3000. Use the interface to add, read, update, and delete data.
+
 
 API Endpoints :
 
